@@ -13,4 +13,4 @@
 - Ссылка: https://github.com/Wladimix/slonit-homework-task-6
 
 - [ ] **Задание №9. Массивы и методы по работе с ними.**
-- По учебнику [javascript.ru](https://learn.javascript.ru/) ознакомиться с основными массивами и методами работы с ними. Написать свои методы, которые повторяют существующие: `arr.slice([start], [end])`, `arr.indexOf(arr, item, from)`, `arr.includes(arr, item, from)`.
+- По учебнику [javascript.ru](https://learn.javascript.ru/) ознакомиться с основными массивами и методами работы с ними. Написать свои методы, которые повторяют существующие: `arr.slice([start], [end])`, `arr.indexOf(item, from)`, `arr.includes(item, from)`.
