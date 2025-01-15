@@ -12,5 +12,6 @@
 - Перечитать некоторые статьи из учебника [javascript.ru](https://learn.javascript.ru/). Для закрепления материала написать мини-игру "Секретное число", в которой два компьютера играют друг с другом.
 - Ссылка: https://github.com/Wladimix/slonit-homework-task-6
 
-- [ ] **Задание №9. Массивы и методы по работе с ними.**
+- [x] **Задание №9. Массивы и методы по работе с ними.**
 - По учебнику [javascript.ru](https://learn.javascript.ru/) ознакомиться с основными массивами и методами работы с ними. Написать свои методы, которые повторяют существующие: `arr.slice([start], [end])`, `arr.indexOf(item, from)`, `arr.includes(item, from)`.
+- Ссылка: https://github.com/Wladimix/slonit-homework-task-9
