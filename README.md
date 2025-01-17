@@ -177,16 +177,16 @@ console.log(pp(aa));
 ### Решение
 
 ```javascript
-function calculateTotalValue(purchaseValues) {
-  let totalValue = 0;
-  purchaseValues.forEach(value => {
-    totalValue += value;
+function calculateTotalAmounts(purchaseAmounts) {
+  let totalAmount = 0;
+  purchaseAmounts.forEach(amount => {
+    totalAmount += amount;
   });
-  return totalValue;
+  return totalAmount;
 }
 
 let topThreePurchasesAmounts = [10000, 20000, 30000];
-console.log(calculateTotalValue(topThreePurchasesAmounts));
+console.log(calculateTotalAmounts(topThreePurchasesAmounts));
 ```
 
 ## :small_orange_diamond: <a id="task9">Задание №9. Массивы и методы по работе с ними.</a>
