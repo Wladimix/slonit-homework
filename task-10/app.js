@@ -33,12 +33,10 @@ console.log("");
  * @param obj объект
  */
 function getArrayKeysOfNumericFields(obj) {
-    const arrayKeysOfNumericFields = [];
     const arrayValuesOfNumericFields = [];
 
     for (let key in obj) {
         if (typeof obj[key] === "number") {
-            arrayKeysOfNumericFields.push(key);
             arrayValuesOfNumericFields.push(obj[key]);
         }
     }
