@@ -33,6 +33,10 @@ console.log("");
  * @param obj объект
  */
 function getArrayKeysOfNumericFields(obj) {
+    if (typeof obj !== "object") {
+        return "это не объект";
+    }
+
     const arrayValuesOfNumericFields = [];
 
     for (let key in obj) {
