@@ -172,6 +172,6 @@ node app.js
 #### Примечание
 
 По информации из учебника, метод `arr.indexOf(item, from)` и `arr.includes(item, from)` отличаются по определению NaN в массиве.
-![NaN в методах indexOf и includes](https://github.com/Wladimix/slonit-homework-task-9/blob/main/NaN-arr-includes.png)
+![NaN в методах indexOf и includes](https://github.com/Wladimix/slonit-homework/blob/main/task-9/NaN-arr-includes.png)
 
 Поэтому я сымитировал эту особенность, добавив логику сравнения по *NaN* в метод `myIncludes(arr, item, from)`.
