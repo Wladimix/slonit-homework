@@ -140,6 +140,13 @@ git commit --author='John Smith <john@me.com>'
 
 Ссылка на код: https://github.com/Wladimix/slonit-homework/blob/main/task-6/app.js
 
+Запуск
+
+```bash
+cd task-6
+node app.js
+```
+
 ## <a id="task9">Задание №9. Массивы и методы по работе с ними.</a>
 
 [К списку заданий](#navigation)
@@ -152,6 +159,13 @@ git commit --author='John Smith <john@me.com>'
 ### Решение
 
 Ссылка на код: https://github.com/Wladimix/slonit-homework/blob/main/task-9/app.js
+
+Запуск
+
+```bash
+cd task-9
+node app.js
+```
 
 #### Примечание
 
