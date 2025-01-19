@@ -38,6 +38,9 @@
 
 ### Решение
 
+<details>
+<summary>Шпаргалка по Git</summary>
+
 #### Что такое GIT.
 
 ***GIT - это система контроля версий.***
@@ -131,6 +134,8 @@ git commit -m "this is commit"
 ```bash
 git commit --author='John Smith <john@me.com>'
 ```
+
+</details>
 
 ## :small_orange_diamond: <a id="task6">Задание №6. Повторим основы.</a>
 
