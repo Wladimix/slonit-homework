@@ -14,6 +14,7 @@
 10. [Повторяем объекты](#task10)
 11. [Работа со строками](#task11)
 12. Базовые основы вёрстки (*теория*)
+13. [Функциональные выражения](#task13)
 
 ## :small_orange_diamond: <a id="task3">Задание №3. GIT - изучаем основы.</a>
 
@@ -263,5 +264,29 @@ node app.js
 
 ```bash
 cd task-11
+node app.js
+```
+
+## :small_orange_diamond: <a id="task13">Задание №13. Функциональные выражения.</a>
+
+[К списку заданий](#navigation)
+
+### Задачи
+
+- Почитать о [функциональных выражениях](https://learn.javascript.ru/function-expressions/)
+- Подготовить простой калькулятор *simpleCalculate*, который будет выполнять нужную операцию из четырех стандартных: */+-. Без использования операторов ветвления (*if/else*). Вызов будет выглядеть примерно так:
+```javascript
+const selectedOperation = "multiply";
+console.log(calculate(6, 3, operations[selectedOperation])); // 18
+```
+
+### Решение
+
+Ссылка на код: https://github.com/Wladimix/slonit-homework/blob/main/task-13/app.js
+
+Запуск
+
+```bash
+cd task-13
 node app.js
 ```
